@@ -1,57 +1,121 @@
 # Olá! Eu sou o Vinícius Teodoro 👋
 
-## Desenvolvedor Backend Java em formação
+### Desenvolvedor Backend Java em formação ☕
 
-Estou em transição de carreira para a área de desenvolvimento de software, trazendo experiência profissional em ambiente industrial, liderança de equipes e resolução de problemas.
+Estou em transição de carreira da área industrial para o desenvolvimento de software, trazendo experiência profissional com liderança de equipes, resolução de problemas e processos industriais para a área de tecnologia.
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
-🎓 Cursando **Técnico em Desenvolvimento de Sistemas - Senac**  
-☕ Foco em **Desenvolvimento Backend com Java**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📚 Cursando Técnico em Desenvolvimento de Sistemas - Senac  
+💻 Foco em Desenvolvimento Backend com Java
 
-## 💻 Conhecimentos atuais
+---
 
+## 💻 Tecnologias e conhecimentos
+
+### Backend
 - Java
 - Programação Orientada a Objetos (POO)
 - Collections
-- Consumo de APIs
-- JSON / Gson
 - Tratamento de exceções
+- Spring Boot
+- Maven
+
+### Banco de Dados
 - SQL
 - MySQL
-- Git e GitHub
+- JDBC
 
-## 📚 Estudando atualmente
+### APIs
+- Consumo de APIs REST
+- Requisições HTTP
+- Manipulação de dados JSON
 
-- Banco de Dados
-- SQL
-- MySQL
-- Desenvolvimento Backend Java
+### Ferramentas
+- Git
+- GitHub
+- IntelliJ IDEA
+- Postman
+
+---
 
 ## 🚀 Projetos
 
 ### 📦 Sistema de Controle de Almoxarifado Industrial
-Projeto em desenvolvimento inspirado em necessidades reais do ambiente industrial.
 
-O objetivo é desenvolver uma aplicação para controle de materiais, ferramentas, equipamentos, entradas, saídas e movimentações de estoque.
+Sistema em desenvolvimento utilizando **Java e Spring Boot**, criado a partir de necessidades observadas no ambiente industrial.
 
-Atualmente sendo desenvolvido em **Java**, com evolução planejada conforme avanço nos estudos de backend.
+O projeto tem como objetivo aplicar meus conhecimentos de desenvolvimento backend na construção de uma solução para gerenciamento de materiais e estoque.
+
+**Tecnologias atuais:**
+- Java
+- Spring Boot
+- Maven
+- Git / GitHub
+
+🔨 Projeto em evolução conforme avanço nos estudos de Backend Java.
+
+---
 
 ### 🎬 ScreenMatch
-Aplicação Java desenvolvida durante meus estudos, utilizando consumo de API, HttpClient, JSON, Gson, Records, Collections e tratamento de exceções.
 
-### 📍 ViaCEP
-Aplicação Java para consulta de endereços por CEP utilizando requisições HTTP e manipulação de dados JSON.
+Aplicação desenvolvida em Java para consulta de filmes e séries utilizando uma API REST.
 
-## 🎯 Próximos estudos
+Durante o projeto pratiquei:
 
-- JDBC
+- Programação Orientada a Objetos
+- Consumo de API
+- Requisições HTTP
+- Manipulação de JSON
+- Tratamento de exceções
+
+---
+
+### 📚 Estudos Java
+
+Repositório onde registro minha evolução no aprendizado de Java, contendo exercícios e práticas de:
+
+- Programação Orientada a Objetos
+- Herança
+- Polimorfismo
+- Interfaces
+- Collections
+- ArrayList
+- Tratamento de exceções
+- SQL e JDBC
+
+---
+
+## 📖 Estudando atualmente
+
+- Java Backend
 - Spring Boot
-- APIs REST
+- SQL
+- MySQL
+- JDBC
+- Desenvolvimento de APIs REST
+
+---
+
+## 🎯 Próximos passos
+
 - JPA / Hibernate
-- Testes
+- Validação de dados
+- DTOs
+- Testes automatizados
 - Docker
 - AWS
+
+---
+
+## 🏭 Experiência + Tecnologia
+
+Minha experiência profissional é na área industrial, atuando com projetos, montagem e manutenção de tubulações e liderança de equipes.
+
+Estou utilizando esse conhecimento como diferencial para desenvolver projetos de software relacionados a problemas reais da indústria.
+
+---
 
 ## 📫 Contato
 
 - LinkedIn: Vinícius Teodoro
+- GitHub: ViniciusTeodorodaSilva
